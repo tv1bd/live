@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-id="Syri.al" group-title="sports",T sports
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Top News Ⓣ" tvg-logo="https://i.imgur.com/tBAXkOW.png" tvg-id="TopNews.al" group-title="Albania",Top News Ⓣ
-https://www.twitch.tv/topnewsal
-#EXTINF:-1 tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" group-title="Albania",Tropoja
-https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://i.imgur.com/tBAXkOW.png" tvg-id="TopNews.al" group-title="sports",Willow Sports
+http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ptv Sports" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-id="TropojaTelevizion.al" group-title="Albania",PTV Sports
+http://198.195.239.50:8095/PTV/tracks-v1a1/mono.m3u8
